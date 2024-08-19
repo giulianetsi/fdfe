@@ -8,10 +8,9 @@ A API é utilziada para obter as taxas de câmbio em tempo real, a aplicação t
 - **Conversão de Moedas:** Converte valores entre diferentes moedas com base nas taxas de câmbio atualizadas.
 - **Histórico de Conversões:** Registra e exibe um histórico das conversões realizadas.
 - **Taxas de Câmbio Atuais:** Exibe as taxas de câmbio atualizadas de diversas moedas em relação a uma moeda base.
-- **Navegação Simples:** Navegue entre as diferentes telas da aplicação de forma intuitiva.
+
 
 ## Tecnologias Utilizadas
-
 - React
 - React Router DOM
 - Bootstrap
@@ -19,19 +18,15 @@ A API é utilziada para obter as taxas de câmbio em tempo real, a aplicação t
 - Exchange Rate API
 
 ## Pré-requisitos
-
 - Node.js e npm instalados.
 
 ## Como Executar o Projeto
-
 1. **Clone o repositório:**
-   ```bash
    git clone https://github.com/seu-usuario/conversor-de-moedas.git
    cd conversor-de-moedas
 
 2. **Instale as dependencias:**
    npm install
-   
 
 3. **Execute o servidor de desenvolvimento:**
     npm start
