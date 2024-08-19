@@ -31,4 +31,4 @@ A API é utilziada para obter as taxas de câmbio em tempo real, a aplicação t
 3. **Execute o servidor de desenvolvimento:**
     npm start
 
-4. **Abra o navegador e acesse http://localhost:3000.**
+4. **Abra o navegador e acesse** http://localhost:3000.
